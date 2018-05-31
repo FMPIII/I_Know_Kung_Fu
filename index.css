@@ -1,0 +1,19 @@
+
+body{
+  cursor: url('images/matrix_spoon.png'), pointer;
+}
+
+
+.p5Canvas{
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -10;
+}
+
+h1{
+  color: #ffffffa6;
+  text-align: center;
+  margin-top: 250px;
+  font-size: 6em;
+}

@@ -1,0 +1,1 @@
+While working on my portfolio site, I thought it would be interesting to have The Matrix raining letters as the site's background. While looking for a link on Youtube to do a simple CSS trick, I found a tutorial that shows you how to code the letters in p5.js. So, I decided to try and code it instead. After taking the red pill, I now know Kung…
